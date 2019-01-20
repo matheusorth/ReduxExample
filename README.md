@@ -1,20 +1,20 @@
-# StudyDriveiOSTestProject
+# ReduxExample
 
-Test-Project
+First usage of Redux architecture. Used one exercise (below) for implementation.
 
-Create a simple iOS-App which shows a table and two buttons below the table ordered horizontal.
-Clicking the left button creates a new producer.
-Clicking the right button creates a new consumer.
+![](VisualStateChanges.gif)
 
-A producer adds every 3 seconds a new cell in the table.
-A consumer removes every 4 seconds a cell from the table.
+## Exercise
+
+Simple iOS-App with UITableView and two buttons.
+Left Button: Creates a new producer.
+Right Button: Creates a new consumer.
+
+Producer: adds a cell every 3 seconds.
+Consumer: removes a cell every 4 seconds.
 A created producer/consumer will never be removed and will do its job forever.
 
 The user can create producer or consumer how often he wants by clicking the specified buttons.
-
-For this project use XCode and the language Swift.
-For the UI use UITableView with UITableViewCell and UIButtons.
-This project should be done in about 2 hours.
 
 ## Resolution
 

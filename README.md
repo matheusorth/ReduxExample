@@ -32,7 +32,7 @@ Trello Board used for organization. - invite link to access it (https://trello.c
 3. Install [CocoaPods](https://cocoapods.org/) 
 4. Clone this repo:
 ```
-git clone https://github.com/cardoso/ReduxMovieDB
+git clone https://github.com/matheusorth/ReduxExample
 ```
 5. Download library dependencies using the cocoapods dependency manager (and update the same way):
 ```
